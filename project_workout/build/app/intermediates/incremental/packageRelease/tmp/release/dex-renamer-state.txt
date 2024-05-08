@@ -1,0 +1,4 @@
+#Mon May 08 01:57:45 EDT 2023
+base.0=C\:\\Users\\Marinel\\StudioProjects\\untitled\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
